@@ -19,4 +19,5 @@ const db_url_black_list = [
     'web1337.net',
     'webadorsite.com',
     'workers.dev',
+    'us.kg',
 ];
