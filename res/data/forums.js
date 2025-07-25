@@ -393,12 +393,11 @@ const db_forums = [
         ]
     },
     {
-        title: "DoMInecraftBBS",
-        url: "https://www.domcbbs.cn",
-        state: "close",
+        title: "Docraft动块社区",
+        url: "https://www.docraft.cn",
+        state: "up",
         createdAt: "2023/01/23",
-        closedAt: "2024/02/23",
-        updatedAt: "2024/04/20",
+        updatedAt: "2025/07/25",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
