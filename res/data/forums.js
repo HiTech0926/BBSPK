@@ -393,12 +393,11 @@ const db_forums = [
         ]
     },
     {
-        title: "DoMInecraftBBS",
-        url: "https://www.domcbbs.cn",
-        state: "close",
+        title: "Docraft动块社区",
+        url: "https://www.docraft.cn",
+        state: "up",
         createdAt: "2023/01/23",
-        closedAt: "2024/02/23",
-        updatedAt: "2024/04/20",
+        updatedAt: "2025/07/25",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -1216,12 +1215,12 @@ const db_forums = [
     {
         title: "MCIDE",
         url: "https://www.mcide.net/",
-        state: "up",
+        state: "close",
         createdAt: "2024/12/02",
-        updatedAt: "2025/01/14",
+        updatedAt: "2025/07/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。已改为技术交流论坛。",
         reference: []
     },
     {
