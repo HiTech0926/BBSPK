@@ -1310,15 +1310,6 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "这里<b>不是</b> MCBBS",
-        url: "https://mcbbs.wang",
-        archiveUrl: "https://web.archive.org/web/20240301071710/https://www.mcbbs.wang/",
-        isClosed: true,
-        updatedAt: "2025/03/18",
-        note: "这里不是 MCBBS。",
-        reference: []
-    },
-    {
         title: "Minecraft中文综合交流站",
         url: "http://mcforum.wikidot.com",
         isClosed: true,
