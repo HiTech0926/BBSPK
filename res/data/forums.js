@@ -1268,6 +1268,17 @@ const db_forums = [
         hasNetSec: "yes",
         note: "前身为我的世界中文论坛（MCBBS，域名：www.mcbbs.net），于 2024 年 1 月 20 日关闭，现于 2025 年 1 月 31 日转生。",
         reference: []
+    },
+    {
+        title: "NexusMC",
+        url: "https://www.nexusmc.cn/",
+        state: "up",
+        createdAt: "2026/02/28",
+        updatedAt: "2026/03/29",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "一站式Minecraft我的世界资源与技术社区，集合 Minecraft 模组、插件、资源包、整合包、光影下载 与 Minecraft 社区交流",
+        reference: []
     }
 ];
 
@@ -1296,15 +1307,6 @@ const db_forums_ex = [
         isClosed: true,
         updatedAt: "2025/03/18",
         note: "真诚祷告。",
-        reference: []
-    },
-    {
-        title: "这里<b>不是</b> MCBBS",
-        url: "https://mcbbs.wang",
-        archiveUrl: "https://web.archive.org/web/20240301071710/https://www.mcbbs.wang/",
-        isClosed: true,
-        updatedAt: "2025/03/18",
-        note: "这里不是 MCBBS。",
         reference: []
     },
     {
