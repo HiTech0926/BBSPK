@@ -1275,8 +1275,8 @@ const db_forums = [
         state: "up",
         createdAt: "2026/02/28",
         updatedAt: "2026/03/29",
-        hasICP: "no",
-        hasNetSec: "no",
+        hasICP: "yes",
+        hasNetSec: "yes",
         note: "一站式Minecraft我的世界资源与技术社区，集合 Minecraft 模组、插件、资源包、整合包、光影下载 与 Minecraft 社区交流",
         reference: []
     }
