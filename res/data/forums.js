@@ -1270,13 +1270,24 @@ const db_forums = [
         reference: []
     },
     {
+        title: "XyeBBS",
+        url: "https://www.xyebbs.com",
+        state: "up",
+        createdAt: "2025/06/14",
+        updatedAt: "2026/06/07",
+        hasICP: "yes",
+        hasNetSec: "no",
+        note: "以资源及服务器收录为主。具体建站时间未知，可考最早帖发布时间为 2025 年 6 月 14 日。",
+        reference: []
+    },
+    {
         title: "NexusMC",
         url: "https://www.nexusmc.cn/",
         state: "up",
         createdAt: "2026/02/28",
         updatedAt: "2026/03/29",
-        hasICP: "no",
-        hasNetSec: "no",
+        hasICP: "yes",
+        hasNetSec: "yes",
         note: "一站式Minecraft我的世界资源与技术社区，集合 Minecraft 模组、插件、资源包、整合包、光影下载 与 Minecraft 社区交流",
         reference: []
     }
